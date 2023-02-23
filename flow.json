@@ -39,7 +39,7 @@
 			"aliases": {
 				"emulator": "f8d6e0586b0a20c7"
 			}
-		},
+		}
 	}
 	"networks": {
 		"emulator": "127.0.0.1:3569",
