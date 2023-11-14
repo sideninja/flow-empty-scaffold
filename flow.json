@@ -30,6 +30,11 @@
 				"emulator": "0xf8d6e0586b0a20c7"
 			}
 		},
+		"RandomBeaconHistory": {
+			"aliases": {
+				"emulator": "0xf8d6e0586b0a20c7"
+			}
+		},
 		"ExampleNFT": {
 			"aliases": {
 				"emulator": "f8d6e0586b0a20c7"
