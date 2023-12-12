@@ -49,7 +49,7 @@
       }
     },
     "NonFungibleToken": {
-      "source": "cadence/contracts/kitty-items/NonFungibleToken.cdc",
+      "source": "cadence/contracts/utility/NonFungibleToken.cdc",
       "aliases": {
         "emulator": "f8d6e0586b0a20c7",
         "testnet": "631e88ae7f1d7c20",
